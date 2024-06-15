@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Welcome to the Modern Muse Shopping Website! This project is a comprehensive e-commerce platform designed and developed as a course submission. The project leverages various Azure services, including Azure DevOps for CI/CD, Azure AI Language for an integrated chatbot, and Azure Storage for hosting the website.
+Welcome to the Modern Muse Shopping Website! This project is a comprehensive e-commerce platform designed and developed as a course submission. The project leverages various Azure services, including Azure DevOps for CI/CD, Azure AI Bot Service for an integrated chatbot, and Azure Storage for hosting the website.
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@ Welcome to the Modern Muse Shopping Website! This project is a comprehensive e-c
 - [Setup Instructions](#setup-instructions)
 - [Azure Services Integration](#azure-services-integration)
   - [Azure DevOps](#azure-devops)
-  - [Azure AI Language](#azure-ai-language)
+  - [Azure AI Bot Service](#azure-ai-bot-service)
   - [Azure Storage](#azure-storage)
 
 ## Features
@@ -28,7 +28,7 @@ Welcome to the Modern Muse Shopping Website! This project is a comprehensive e-c
 
 - **Frontend**: HTML, CSS, JavaScript
 - **Azure DevOps**: For continuous integration and deployment
-- **Azure AI Language**: For chatbot integration
+- **Azure AI Bot Service**: For chatbot integration
 - **Azure Storage**: For hosting the website
 
 ## Azure Services Integration
@@ -36,7 +36,7 @@ Welcome to the Modern Muse Shopping Website! This project is a comprehensive e-c
 Azure DevOps
 Azure DevOps is used for continuous integration and deployment. The project is set up with a pipeline that automates the build and deployment process.
 
-**Azure AI Language Resource**
+**Azure AI Bot Service**
 The chatbot is powered by Azure AI Language, providing a conversational interface for customer support. The chatbot is embedded in the website using an iframe.
 
 **Azure Storage**
