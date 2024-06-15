@@ -46,6 +46,8 @@ Project Demo URL: https://frtmodernmusewebapp.z1.web.core.windows.net/
 
 Azure DevOps dashboard: https://dev.azure.com/saarim-salim/_git/ModernMuseDevops
 
+Project Demo Video URL: https://drive.google.com/file/d/1KLyTjKqD0tHQzkse87WKi4XmY8Szjz8A/view?usp=sharing
+
 **Relevant Screenshots from Admin Panels**
 <img width="1440" alt="Screenshot 2024-06-15 at 8 42 26 PM" src="https://github.com/Saarim-Salim/ModernMuseWebApp/assets/20147775/796efc14-91f0-4bb8-986f-0eb3ed61060f">
 
