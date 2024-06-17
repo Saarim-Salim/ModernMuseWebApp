@@ -33,7 +33,7 @@ Welcome to the Modern Muse Shopping Website! This project is a comprehensive e-c
 
 ## Azure Services Integration
 
-Azure DevOps
+**Azure DevOps**
 Azure DevOps is used for continuous integration and deployment. The project is set up with a pipeline that automates the build and deployment process.
 
 **Azure AI Bot Service**
